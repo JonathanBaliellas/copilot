@@ -6,6 +6,7 @@ O modo **Ask** é para fazer perguntas sem alterar o código. Você pode pergunt
 
 O copiloto lê o contexto e responde como um "mentor técnico" explicando o que está acontecendo e por quê, sem modificar nada.
 
+**Prompt:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
 ---
 
 ## Plan
@@ -18,12 +19,16 @@ Ele:
 
 É útil para grandes mudanças, novas features ou validar uma abordagem antes de mexer no código.
 
+**Prompt:** [prompts/prompt-plan.md](prompts/prompt-plan.md)
+
 ---
 
 ## Agent
 É o modo mais autônomo. O copiloto pode navegar pelo projeto, criar arquivos, modificar múltiplos pontos e manter contexto entre passos, como um dev júnior trabalhando com você.
 
 Você dá um objetivo e ele decide o que precisa ser feito em vários arquivos para chegar lá.
+
+**Prompt:** [prompts/prompt-agent.md](prompts/prompt-agent.md)
 
 ---
 
@@ -33,3 +38,5 @@ Você dá um objetivo e ele decide o que precisa ser feito em vários arquivos p
 - destaca conceitos e trade-offs;
 - faz perguntas reflexivas;
 - avança em progressão gradual de dificuldade.
+
+**Prompt:** [prompts/prompt-study.md](prompts/prompt-study.md)
