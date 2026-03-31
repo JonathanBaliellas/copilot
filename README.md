@@ -7,6 +7,7 @@ O modo **Ask** é para fazer perguntas sem alterar o código. Você pode pergunt
 O copiloto lê o contexto e responde como um "mentor técnico" explicando o que está acontecendo e por quê, sem modificar nada.
 
 **Prompt:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
+
 ---
 
 ## Plan
